@@ -4,3 +4,5 @@ This is for sunday class
 This is for monday class
 ### tuesday
 This is for tuesday class
+#### wednesday
+This is for wednesday class
